@@ -1,0 +1,9 @@
+.red__favorite {
+  color: red;
+  cursor: pointer;
+}
+
+.white__favorite {
+  color: lightgray;
+  cursor: pointer;
+}

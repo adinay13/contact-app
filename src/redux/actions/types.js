@@ -1,0 +1,7 @@
+export const REQUEST_DATA_USERS = "REQUEST_DATA_USERS";
+export const GET_SUCCESS_USERS_DATA = "GET_SUCCESS_USERS_DATA";
+export const GET_FAIL_USERS_DATA = "GET_FAIL_USERS_DATA";
+export const UPDATE_CONTACT = "UPDATE_CONTACT";
+export const SEARCH_CONTACT = "SEARCH_CONTACT";
+export const SORT_A_Z = "SORT_A_Z";
+export const SORT_Z_A = "SORT_Z_A";
